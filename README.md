@@ -19,7 +19,7 @@ Columns:
 - FGM
 - FGA 
 - FG%
-- 3PM
+- 3P Made
 - 3PA
 - 3P%
 - FTM
@@ -37,7 +37,7 @@ Columns:
 ## Tools Used 
 
 - Microsoft Excel – Data cleaning & preparation
-- Tableau – Data visualization & interactive dashboard
+- Tableau Public – Data visualization & interactive dashboard
 
 ## Key Insights
 
