@@ -53,7 +53,7 @@ Columns:
 
 - The statistics that held the most influence on whether a player made the HOF were GP (games played), minutes, and how efficient they shot the ball (FG#, FT%, 3P%) 
 - Beyond the story the dashboard tells, there are other intangible variables outside of the player's statistics that affected their chances.
-- As time went on, the game of basketball has changed significantly. Therefore, each player's chance of being admitted into the HOF varies based on the era of basketball in which they played. There's an argument that present-day basketball requires more skill and vice versa in other facets of the game. 
+- As time went on, the game of basketball has changed significantly. Therefore, each player's chance of being inducted into the HOF varies based on the era of basketball in which they played. There's an argument that present-day basketball requires more skill and vice versa in other facets of the game. 
 
 ## Lesson 
 
