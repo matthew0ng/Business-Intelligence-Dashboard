@@ -11,8 +11,8 @@ Source: Kaggle (NBA Rookies Performance Statistics and Minutes)
 Total Values: 1537
 
 Columns: 
-• Name
-• Year Drafted
+- Name
+- Year Drafted
 • GP
 • Min
 • Pts
