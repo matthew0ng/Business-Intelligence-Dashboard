@@ -13,37 +13,37 @@ Total Values: 1537
 Columns: 
 - Name
 - Year Drafted
-• GP
-• Min
-• Pts
-• FGM
-• FGA 
-• FG%
-• 3PM
-• 3PA
-• 3P%
-• FTM
-• FTA
-• FT%
-• OREB
-• DREB
-• AST
-• STL
-• BLK
-• TOV
-• EFF
+- GP
+- Min
+- Pts
+- FGM
+- FGA 
+- FG%
+- 3PM
+- 3PA
+- 3P%
+- FTM
+- FTA
+- FT%
+- OREB
+- DREB
+- AST
+- STL
+- BLK
+- TOV
+- EFF
 
 
 ## Tools Used 
 
-• Microsoft Excel – Data cleaning & preparation
-• Tableau – Data visualization & interactive dashboard
+- Microsoft Excel – Data cleaning & preparation
+- Tableau – Data visualization & interactive dashboard
 
 ## Key Insights
 
-• Total statistics by rookies during their rookie seasons
-• Hall of Fame Class filtered by average games and minutes played their rookie seasons
-• Average rookie efficiencies (FG%, FT%, 3P%) over the years
+- Total statistics by rookies during their rookie seasons
+- Hall of Fame Class filtered by average games and minutes played their rookie seasons
+- Average rookie efficiencies (FG%, FT%, 3P%) over the years
 
 ## Conclusion 
 
