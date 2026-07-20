@@ -45,7 +45,7 @@ Columns:
 - Hall of Fame Class filtered by average games and minutes played their rookie seasons
 - Average rookie efficiencies (FG%, FT%, 3P%) over the years
 
-## Conclusion 
+## Lesson 
 
 This project helped me gain experience and insights in designing interactive visualizations that can guide users toward meaningful conclusions. It also revealed how effective data visualization can reveal patterns in the data that aren't initially obvious.
 
