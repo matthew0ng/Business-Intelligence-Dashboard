@@ -3,7 +3,7 @@
 
 ## Overview 
 
-I analyzed an NBA Rookies dataset containing essential performance statistics to understand how basketball has changed over the years and which statistics may increase a player’s odds of being inducted into the Hall of Fame through interactive visualizations.
+I analyzed an NBA dataset containing rookie's essential performance statistics to understand how basketball has changed over the years and which statistics may increase a player’s odds of being inducted into the Hall of Fame through interactive visualizations.
 
 
 ## Dataset Information 
